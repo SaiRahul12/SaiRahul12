@@ -42,7 +42,7 @@ tissue, and squamous cell carcinoma.
 
 - LinkedIn: ([link-to-linkedin](https://www.linkedin.com/in/sai-rahul-769400192))
 - Email: sairahulk3203@gmail.com
-- Portfolio: [[Your Portfolio Website](link-to-portfolio)](https://sairahul12.github.io/RahulPortfolio/)
+- Portfolio: (link-to-portfolio)](https://sairahul12.github.io/RahulPortfolio/)
 
 Feel free to explore my repositories and connect with me! 😊
 
