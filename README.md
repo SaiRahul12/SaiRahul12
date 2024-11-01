@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sai Rahul Kodeboina
 
-I'm a B.Tech CSE student specializing in AIML, currently in my 3rd year at Vellore Institute of Technology, Andhra Pradesh.
+I'm a B.Tech CSE student specializing in AIML, currently in my final year at Vellore Institute of Technology, Andhra Pradesh.
 
 ## 🔍 About Me
 
